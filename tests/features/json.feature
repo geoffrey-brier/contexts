@@ -136,7 +136,7 @@ Feature: Testing JSONContext
         Then the JSON should be equal to:
             """
             {
-                "foo": "bar",
+                "foö": "bar",
                 "numbers": [
                     "one",
                     "two",
